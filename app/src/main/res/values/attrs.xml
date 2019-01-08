@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SuperEditText">
+        <attr name="textLength" format="integer" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+
+        <attr name="borderColor" format="color" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="pointColor" format="color" />
+        <attr name="pointWidth" format="dimension" />
+
+        <attr name="editNumber" format="integer" />
+
+    </declare-styleable>
+</resources>
