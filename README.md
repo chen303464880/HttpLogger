@@ -4,7 +4,7 @@
 
 #### 使用Gradle构建时添加一下依赖即可:
 ```javascript
-implementation 'com.cjj.httplogger:HttpLogger:1.0.0'
+implementation 'com.cjj.httplogger:HttpLogger:1.0.1'
 ```
 ##### 初始化
 ```java

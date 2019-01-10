@@ -61,7 +61,7 @@ public class HttpLogger implements Interceptor {
             this.mHeaderName = logInfo.mHeaderName;
         }
         if (logInfo.mMaxLines <= 0) {
-            logInfo.mMaxLines = 20;
+            this.mMaxLines = 20;
         } else {
             this.mMaxLines = logInfo.mMaxLines;
         }
